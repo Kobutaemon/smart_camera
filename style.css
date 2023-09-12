@@ -1,0 +1,22 @@
+.div-h1 {
+    text-align: center;
+}
+
+
+.startCamera {
+    padding: 15px;
+    background-color: rgb(255, 196, 196);
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+.stopCamera {
+    padding: 15px;
+    background-color: rgb(159, 235, 235);
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+.div-cam {
+    text-align: center;
+}
